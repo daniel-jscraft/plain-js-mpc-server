@@ -1,4 +1,3 @@
-- [Talk Slides](https://docs.google.com/presentation/d/1xhdO-zVR-e0iRvAo_VfcBLc2C-dMlBV3LQkl_yI0Kow/edit?usp=sharing)
 - Jack Herrington on MCP in TypeScript 
  [video 1](https://www.youtube.com/watch?v=VChRPFUzJGA), [video 2](https://www.youtube.com/watch?v=eD0uBLr-eP8) 
 - [Fireship's 5 min intro to MCP](https://www.youtube.com/watch?v=HyzlYwjoXOQ)
